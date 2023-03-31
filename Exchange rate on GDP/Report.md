@@ -55,8 +55,8 @@ We need to do bivariate cointegration, for that we can use ARDL bounds testing a
 
 But due to limitations in our knowledge we only performed unit root test.
 
-![GDP_NEER](https://github.com/theanishk/stat-proj/blob/main/gdp_neer.png?raw=true)  
-![GDP_REER](https://github.com/theanishk/stat-proj/blob/main/gdp_reer.png?raw=true)
+![GDP_NEER](https://github.com/theanishk/Projects/blob/main/Exchange%20rate%20on%20GDP/gdp_neer.png)  
+![GDP_REER](https://github.com/theanishk/Projects/blob/main/Exchange%20rate%20on%20GDP/gdp_reer.png)
 
 #### Unit Root Test Result
 
